@@ -16,3 +16,5 @@ docker network = linux network
 ![[Pasted image 20251213234150.png]]
 
 리눅스 커널 내부의 물리적 스위치를 가상으로 구현한 OSI 2계층 Device
+
+도커의 브릿지 또한 사설 네트워크로 분리하여 내부 네트
