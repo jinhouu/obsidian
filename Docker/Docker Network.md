@@ -23,3 +23,7 @@ docker network = linux network
 ## 네트워크 네임스페이스
 ![[Pasted image 20251213234553.png]]
 
+## Container의 veth
+![[Pasted image 20251213235000.png]]
+
+
