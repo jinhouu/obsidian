@@ -15,4 +15,4 @@ docker network = linux network
 ## 리눅스 브릿지
 ![[Pasted image 20251213234150.png]]
 
-물리적 스위치를 가상으로 구현한 OSI 2계층의 
+리눅스 커널 내부의 물리적 스위치를 가상으로 구현한 OSI 2계층 Device
