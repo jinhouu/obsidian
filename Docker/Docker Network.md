@@ -10,5 +10,9 @@ docker network = linux network
 - 리눅스 브릿지
 - 네트워크 네임스페이스
 - veth(virtual ethernet) pair 및 iptables
-위 사항들을 포함하고 있다.
 이 조합은 복잡한 네트워크 정책을 위한 전달 규칙, 네트워크 분할 및 관리도구를 제공한다.
+
+## 리눅스 브릿지
+![[Pasted image 20251213234150.png]]
+
+물리적 스위치를 가상으로 구현한 OSI 2계층의 
