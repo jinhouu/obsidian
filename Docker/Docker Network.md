@@ -26,4 +26,6 @@ docker network = linux network
 ## Container의 veth
 ![[Pasted image 20251213235000.png]]
 
+## 
 
+![[Pasted image 20251213235751.png]]
