@@ -2,4 +2,4 @@ docker engine 설치 시 `docker0`라는 인터페이스가 기본적으로 생�
 
 서비스 운영 시 독립된 사용자 정의 네트워크를 생성하여 사용하는것이 좋다.
 
-docker network = linux network 로 설명할 수 있다
+docker network = linux network
