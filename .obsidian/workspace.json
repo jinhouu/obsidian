@@ -196,5 +196,9 @@
     }
   },
   "active": "d640c7126510cedb",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Docker/Private Registry 구축.md",
+    "Docker/Container 기술.md",
+    "Docker/Docker Network.md"
+  ]
 }
