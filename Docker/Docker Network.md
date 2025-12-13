@@ -9,4 +9,6 @@ docker network = linux network
 ## 리눅스 네터워킹 빌딩 블록
 - 리눅스 브릿지
 - 네트워크 네임스페이스
-- veth pair 및 iptables
+- veth(virtual ethernet) pair 및 iptables
+위 사항들을 포함하고 있다.
+이 조합은 복잡한 네트워크 정책을 위한 전달 규칙, 네트워크 분할 및 관리도구를 제공한다.
