@@ -26,6 +26,6 @@ docker network = linux network
 ## Container의 veth
 ![[Pasted image 20251213235000.png]]
 
-## 
+## container 생성 시 port 는 host iptables에 등록됨
 
 ![[Pasted image 20251213235751.png]]
