@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "0e61834823c3f571",
+    "type": "split",
+    "children": [
+      {
+        "id": "10379d7a89d59903",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c28fb1ab310cc80b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c84c257fd65489de",
+    "type": "split",
+    "children": [
+      {
+        "id": "4890745d925c7f97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c527b3551e5180a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d190d8a8fac7aaf6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7a6eb8c389950abe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.5
+  },
+  "right": {
+    "id": "265b7de20d2a435e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c3a7f532ab7306c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f606cb6be2831288",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "샤드.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 샤드"
+            }
+          },
+          {
+            "id": "411e9596ee754a0e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "샤드.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 샤드"
+            }
+          },
+          {
+            "id": "978d5ba47e2421c9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "60a93131a190608b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c5950dc8545032e1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "샤드.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 샤드"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c28fb1ab310cc80b",
+  "lastOpenFiles": [
+    "면접/면접 노트.md",
+    "면접/프로젝트 정리.md",
+    "면접/면접질문.md",
+    "데이터 저장 및 검색 파이프라인 플로우.md",
+    "샤드.md",
+    "인덱스.md",
+    "면접",
+    "ElasticSearch 노드.md",
+    "그 외 노드.md",
+    "마스터노드.md",
+    "인제스트 노드.md",
+    "데이터 노드.md"
+  ]
+}
