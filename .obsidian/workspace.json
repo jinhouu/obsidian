@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d68a2d8f0c1ee6df",
+        "id": "f730a7e69ed0f36b",
         "type": "tabs",
         "children": [
           {
-            "id": "a0e3c61bf6d8218b",
+            "id": "a3b354ca53c0538a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -195,16 +195,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0e3c61bf6d8218b",
+  "active": "a3b354ca53c0538a",
   "lastOpenFiles": [
+    "Kafka/Kafka Commit Log.md",
+    "Kafka/Apache Kafka 란?.md",
+    "Kafka/Consumer.md",
+    "Kafka/Topic.md",
     "Pasted image 20251229174903.png",
     "Kafka/images",
     "Kafka/images/Pasted image 20251229174540.png",
-    "Kafka/Apache Kafka 란?.md",
-    "Kafka/Topic.md",
-    "Kafka/Kafka Commit Log.md",
     "Offset.md",
-    "Kafka/Consumer.md",
     "Kafka/Producer.md",
     "Docker & Kubernetes/Docker Network.md",
     "Docker & Kubernetes/Container 기술.md",
