@@ -21,4 +21,6 @@ Apache Kafka의 정의는 여러개가 있다.
 - Legacy Messaging System 대체 -> BE 엔지니어
 - IOT 디바이스 혹은 Application으로부터 데이터 수집 및 전송 -> App 개발자 / BE 엔지니어
 - 시스템 혹은 Application 에서 발생하는 로그 수집 및 전송 -> BE 엔지니어
-- Realtime Data Stream Process
+- Realtime Data Stream Processing (Fraud Detection, 이상 감지 등) -> 데이터 엔지니어
+- 실시간 ETL -> BE 엔지니어
+- Spark, Flink, Storm, Hadoop 과 같은 빅데이터 솔루션과 함께 사용 -> 데이터 엔지니어
