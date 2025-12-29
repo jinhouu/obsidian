@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "588b274dacea1574",
+        "id": "4dd7e26a1ffff91d",
         "type": "tabs",
         "children": [
           {
-            "id": "0657c95ce66c98c7",
+            "id": "305a7a4fed1ab184",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Kafka/Apache Kafka 란?.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Apache Kafka 란?"
             }
           }
         ]
@@ -191,18 +195,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0657c95ce66c98c7",
+  "active": "305a7a4fed1ab184",
   "lastOpenFiles": [
+    "Kafka/Apache Kafka 란?.md",
+    "Docker & Kubernetes/Docker Network.md",
+    "Docker & Kubernetes/Container 기술.md",
+    "Docker & Kubernetes/images/Pasted image 20251213234150.png",
+    "Docker & Kubernetes/images",
+    "Kafka",
     "Network/Untitled.md",
     "Network",
-    "Pasted image 20251213234150.png",
     "Docker & Kubernetes/Kubernetes 실습.md",
-    "Docker & Kubernetes/Docker Network.md",
-    "Pasted image 20251213235751.png",
-    "Pasted image 20251213235000.png",
-    "Pasted image 20251213234553.png",
-    "Pasted image 20251213234514.png",
-    "Docker & Kubernetes/Private Registry 구축.md",
-    "Docker & Kubernetes/Container 기술.md"
+    "Docker & Kubernetes/images/Pasted image 20251213235751.png",
+    "Docker & Kubernetes/images/Pasted image 20251213235000.png",
+    "Docker & Kubernetes/images/Pasted image 20251213234553.png",
+    "Docker & Kubernetes/images/Pasted image 20251213234514.png",
+    "Docker & Kubernetes/Private Registry 구축.md"
   ]
 }
