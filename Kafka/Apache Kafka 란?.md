@@ -24,3 +24,4 @@ Apache Kafka의 정의는 여러개가 있다.
 - Realtime Data Stream Processing (Fraud Detection, 이상 감지 등) -> 데이터 엔지니어
 - 실시간 ETL -> BE 엔지니어
 - Spark, Flink, Storm, Hadoop 과 같은 빅데이터 솔루션과 함께 사용 -> 데이터 엔지니어
+
