@@ -24,3 +24,6 @@ Apache Kafka의 정의는 아래와 같이 할 수 있다.
 - 실시간 ETL -> BE 엔지니어
 - Spark, Flink, Storm, Hadoop 과 같은 빅데이터 솔루션과 함께 사용 -> 데이터 엔지니어
 
+
+## Apache Kafka 주요 요소
+[Topic]
