@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a8327566ff1a9e37",
+        "id": "588b274dacea1574",
         "type": "tabs",
         "children": [
           {
-            "id": "d640c7126510cedb",
+            "id": "0657c95ce66c98c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker & Kubernetes/Kubernetes 실습.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Kubernetes 실습"
+              "title": "New tab"
             }
           }
         ]
@@ -195,15 +191,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d640c7126510cedb",
+  "active": "0657c95ce66c98c7",
   "lastOpenFiles": [
-    "Docker & Kubernetes/Docker Network.md",
+    "Network/Untitled.md",
+    "Network",
+    "Pasted image 20251213234150.png",
     "Docker & Kubernetes/Kubernetes 실습.md",
+    "Docker & Kubernetes/Docker Network.md",
     "Pasted image 20251213235751.png",
     "Pasted image 20251213235000.png",
     "Pasted image 20251213234553.png",
     "Pasted image 20251213234514.png",
-    "Pasted image 20251213234150.png",
     "Docker & Kubernetes/Private Registry 구축.md",
     "Docker & Kubernetes/Container 기술.md"
   ]
