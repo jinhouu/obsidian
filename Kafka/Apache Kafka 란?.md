@@ -1,5 +1,6 @@
-LinkedIn에서 개발된
-
+LinkedIn 에서 하루 4.5조 개 이상의 이벤트, 3천억 개 이상의 사용자 관련 이벤트 스트림 처리
+기존의 
+ 
 Apache Kafka의 정의는 여러개가 있다.
 
 - Data In Motion Platform
