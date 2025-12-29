@@ -12,3 +12,8 @@ Apache Kafka의 정의는 여러개가 있다.
 연속적인 많은 이벤트(데이터)들의 흐름
 따라서 이벤트는 BigData의 특징을 가지고있다.
 
+## Apache Kafka의 특징
+1. 데이터 스트림을 안전하게 전송 (Publish & Subscribe)
+2. 디스크 스트림을 디스크에 저장 (Write to Disk)
+3. 데이터 스트림을 처리 및 분석 (Processing & Analysis)
+
