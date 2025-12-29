@@ -7,8 +7,8 @@ Commit Log 단위, 하나의 Topic은 하나 이상의 Partition으로 구성
 ## Segment
 메시지(Data)가 저장되는 실제 물리 File
 Segment File이 지정된 크기보다 크거나 지정된 기간보다 오래되면 새 파일이 열리고 메시지는 새 파일에 추가됨
+Partition 하나당 오직 하나의
 
-파일의 크기는 지정 가능.
 
 ![[Pasted image 20251229174540.png]]
 
