@@ -5,11 +5,6 @@ Kafka 안에서 메시지가 저장되는 논리적인 장소
 Commit Log 단위, 하나의 Topic은 하나 이상의 Partition으로 구성
 병렬처리(Troughput 향상)를 위한 Multi Partition 사용 권장
 
-Topic 생성 시 Partition 개수 지정하여 생성
-Partition 변경이 가능하나 운영시에는 변경 권장하지 않음.(생성 시 충분히 고려)
-
-Topic 내 Partition은 서로 독립적임
-(Partition 내에서 보장)
 
 ## Segment
 메시지(Data)가 저장되는 실제 물리 File
@@ -27,3 +22,12 @@ Partition 하나당 오직 하나의 Segment 가 활성화 되어있음 (데이�
 
 
 
+---
+정리
+
+- Topic 생성 시 Partition 개수 지정하여 생성
+	Partition 변경이 가능하나 운영시에는 변경 권장하지 않음.(생성 시 충분히 고려)
+- Topic 내 Partition은 서로 독립적임
+	(Event의 순서는 Partition 내에서만 보장)
+- Partition에 저장된 데이터는 변경이 불가능함
+- Partition에 write되는 데이터는 맨 끝 OFFSET에 ㅈ
