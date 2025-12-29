@@ -4,3 +4,7 @@
 
 ### Offset
 Offset 은 Commit Log에서의 Event의 위치를 표시함
+
+Producer가 Write하는 위치를 LOG-END-OFFSET 이라고 한다.
+Consumer가 Read 후 Commit 한 CURRENT-OFFSET 과 차이(Consumer Lag)가 발생할 수 있음
+
