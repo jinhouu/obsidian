@@ -197,8 +197,9 @@
   },
   "active": "a0e3c61bf6d8218b",
   "lastOpenFiles": [
-    "Kafka/Apache Kafka 란?.md",
+    "Offset.md",
     "Kafka/Kafka Commit Log.md",
+    "Kafka/Apache Kafka 란?.md",
     "Kafka/Consumer.md",
     "Kafka/Producer.md",
     "Kafka/Topic.md",
