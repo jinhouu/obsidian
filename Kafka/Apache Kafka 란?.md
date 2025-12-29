@@ -1,3 +1,5 @@
+LinkedIn에서 개발된
+
 Apache Kafka의 정의는 여러개가 있다.
 
 - Data In Motion Platform
@@ -8,3 +10,5 @@ Apache Kafka의 정의는 여러개가 있다.
 이 이벤트(데이터)를 비즈니스에 활용
 
 ### Event(Data) Stream 은 무엇인가?
+연속적인 많은 이벤트(데이터)들의 흐름
+따라서 이벤트는 BigData의 특징을 가지고있다.
