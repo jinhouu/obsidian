@@ -11,10 +11,14 @@
             "id": "a0e3c61bf6d8218b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Kafka/Consumer.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Consumer"
             }
           }
         ]
