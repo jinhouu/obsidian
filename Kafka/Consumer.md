@@ -1,1 +1,3 @@
-Topic의 메세지를 가져와서 소비(Comsume)하는 애플리케잇
+Topic의 메세지를 가져와서 소비(Comsume)하는 애플리케이션
+
+## Consumer Group
