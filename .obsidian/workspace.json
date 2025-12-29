@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kafka/Consumer.md",
+                "file": "Kafka/Kafka Commit Log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Consumer"
+              "title": "Kafka Commit Log"
             }
           }
         ]
@@ -198,8 +198,9 @@
   "active": "a0e3c61bf6d8218b",
   "lastOpenFiles": [
     "Kafka/Apache Kafka 란?.md",
-    "Kafka/Producer.md",
+    "Kafka/Kafka Commit Log.md",
     "Kafka/Consumer.md",
+    "Kafka/Producer.md",
     "Kafka/Topic.md",
     "Docker & Kubernetes/Docker Network.md",
     "Docker & Kubernetes/Container 기술.md",
