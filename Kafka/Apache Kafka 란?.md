@@ -27,6 +27,5 @@ Apache Kafka의 정의는 아래와 같이 할 수 있다.
 
 ## Apache Kafka 주요 요소
 - [[Topic]]
-- [[Partition]]
 - [[Consumer]]
-- [[Pro]]
+- [[Producer]]
