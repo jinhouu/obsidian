@@ -3,12 +3,8 @@ Apache Kafka의 정의는 여러개가 있다.
 - Data In Motion Platform
 - Data Streaming Platform
 - Event Streaming Platform
-
-끊임없이 발생하는 데이터를 목적지까지 전달해주는,
-움직이는 데이터를 수집/처리 하는,
-Event 발생 데이터를 처리하는 
-등 여러 목적으로 사용이 가능하다.
-
 ### Event 란?
 비즈니스에서 일어나는 모든 일(데이터)을 의미한다.
-이 데이털
+이 이벤트(데이터)를 비즈니스에 활용
+
+### Event(Data) Stream 은 무엇인가?
