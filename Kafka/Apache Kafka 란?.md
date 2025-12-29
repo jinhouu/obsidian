@@ -16,4 +16,7 @@ Apache Kafka의 정의는 여러개가 있다.
 1. 데이터 스트림을 안전하게 전송 (Publish & Subscribe)
 2. 디스크 스트림을 디스크에 저장 (Write to Disk)
 3. 데이터 스트림을 처리 및 분석 (Processing & Analysis)
-
+### Apache Kafka 유즈케이스
+위 특성으로 인해 Event(메시지/데이터)가 사용되는 모든 곳에서 사용
+- Legacy Messaging System 대체 -> 백엔드 엔지니어
+- 
