@@ -18,5 +18,7 @@ Apache Kafka의 정의는 여러개가 있다.
 3. 데이터 스트림을 처리 및 분석 (Processing & Analysis)
 ### Apache Kafka 유즈케이스
 위 특성으로 인해 Event(메시지/데이터)가 사용되는 모든 곳에서 사용
-- Legacy Messaging System 대체 -> 백엔드 엔지니어
-- 
+- Legacy Messaging System 대체 -> BE 엔지니어
+- IOT 디바이스 혹은 Application으로부터 데이터 수집 및 전송 -> App 개발자 / BE 엔지니어
+- 시스템 혹은 Application 에서 발생하는 로그 수집 및 전송 -> BE 엔지니어
+- Realtime Data Stream Process
