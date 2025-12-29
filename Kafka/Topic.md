@@ -9,6 +9,7 @@ Topic 생성 시 Partition 개수 지정하여 생성
 Partition 변경이 가능하나 운영시에는 변경 권장하지 않음.(생성 시 충분히 고려)
 
 Topic 내 Partition은 서로 독립적임
+(Partition 내에서 보장)
 
 ## Segment
 메시지(Data)가 저장되는 실제 물리 File
