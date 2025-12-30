@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kafka/3. Broker.md",
+                "file": "Kafka/4. ZooKeeper & KRaft.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Broker"
+              "title": "4. ZooKeeper & KRaft"
             }
           }
         ]
@@ -195,12 +195,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4055a36090eadb6a",
+  "active": "556545e664cc7a74",
   "lastOpenFiles": [
+    "Kafka/3. Broker.md",
     "Pasted image 20251230163709.png",
     "Pasted image 20251230163701.png",
     "Kafka/4. ZooKeeper & KRaft.md",
-    "Kafka/3. Broker.md",
     "Kafka/2. Producer & Consumer.md",
     "Kafka/images/Pasted image 20251230135810.png",
     "Kafka/0. Apache Kafka 란.md",
@@ -225,7 +225,6 @@
     "Docker & Kubernetes/Kubernetes 실습.md",
     "Docker & Kubernetes/images/Pasted image 20251213235751.png",
     "Docker & Kubernetes/images/Pasted image 20251213235000.png",
-    "Docker & Kubernetes/images/Pasted image 20251213234553.png",
     "Docker & Kubernetes/Private Registry 구축.md"
   ]
 }
