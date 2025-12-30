@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kafka/4. ZooKeeper & KRaft.md",
+                "file": "Kafka/3. Broker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. ZooKeeper & KRaft"
+              "title": "3. Broker"
             }
           }
         ]
@@ -197,8 +197,8 @@
   },
   "active": "4055a36090eadb6a",
   "lastOpenFiles": [
-    "Kafka/3. Broker.md",
     "Kafka/4. ZooKeeper & KRaft.md",
+    "Kafka/3. Broker.md",
     "Kafka/2. Producer & Consumer.md",
     "Kafka/images/Pasted image 20251230135810.png",
     "Kafka/0. Apache Kafka 란.md",
