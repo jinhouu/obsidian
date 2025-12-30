@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kafka/3. Broker.md",
+                "file": "Kafka/4. ZooKeeper & KRaft.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Broker"
+              "title": "4. ZooKeeper & KRaft"
             }
           }
         ]
@@ -197,9 +197,9 @@
   },
   "active": "4055a36090eadb6a",
   "lastOpenFiles": [
-    "Kafka/4. ZooKeeper & KRaft.md",
     "Kafka/3. Broker.md",
     "Kafka/images/Pasted image 20251230163709.png",
+    "Kafka/4. ZooKeeper & KRaft.md",
     "Kafka/images/Pasted image 20251230163701.png",
     "Kafka/2. Producer & Consumer.md",
     "Kafka/images/Pasted image 20251230135810.png",
