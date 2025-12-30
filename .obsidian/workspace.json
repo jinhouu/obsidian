@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kafka/3. Broker.md",
+                "file": "Kafka/0. Apache Kafka 란.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Broker"
+              "title": "0. Apache Kafka 란"
             }
           }
         ]
@@ -197,11 +197,11 @@
   },
   "active": "4055a36090eadb6a",
   "lastOpenFiles": [
+    "Pasted image 20251230135715.png",
+    "Kafka/3. Broker.md",
     "Kafka/0. Apache Kafka 란.md",
     "Pasted image 20251230135746.png",
     "Kafka/1. Topic.md",
-    "Kafka/3. Broker.md",
-    "Pasted image 20251230135715.png",
     "Kafka/2. Producer & Consumer.md",
     "Kafka/Kafka Commit Log.md",
     "Kafka/3. Consumer.md",
