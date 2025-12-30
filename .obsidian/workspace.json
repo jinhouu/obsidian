@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kafka/4. ZooKeeper & KRaft.md",
+                "file": "Kafka/1. Topic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. ZooKeeper & KRaft"
+              "title": "1. Topic"
             }
           }
         ]
@@ -197,12 +197,12 @@
   },
   "active": "4055a36090eadb6a",
   "lastOpenFiles": [
+    "Kafka/2. Producer & Consumer.md",
+    "Kafka/4. ZooKeeper & KRaft.md",
     "Pasted image 20251230164623.png",
     "Kafka/3. Broker.md",
     "Kafka/images/Pasted image 20251230163709.png",
-    "Kafka/4. ZooKeeper & KRaft.md",
     "Kafka/images/Pasted image 20251230163701.png",
-    "Kafka/2. Producer & Consumer.md",
     "Kafka/images/Pasted image 20251230135810.png",
     "Kafka/0. Apache Kafka 란.md",
     "Pasted image 20251230135715.png",
@@ -225,7 +225,6 @@
     "Network",
     "Docker & Kubernetes/Kubernetes 실습.md",
     "Docker & Kubernetes/images/Pasted image 20251213235751.png",
-    "Docker & Kubernetes/images/Pasted image 20251213235000.png",
     "Docker & Kubernetes/Private Registry 구축.md"
   ]
 }
