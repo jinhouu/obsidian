@@ -195,13 +195,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "556545e664cc7a74",
+  "active": "1af34d12e2f8bde9",
   "lastOpenFiles": [
-    "Kafka/0. Apache Kafka 란.md",
+    "Kafka/2. Producer.md",
     "Kafka/3. Consumer.md",
+    "Kafka/0. Apache Kafka 란.md",
     "Kafka/4. Broker.md",
     "Kafka/5. ZooKeeper & KRaft.md",
-    "Kafka/2. Producer.md",
     "Pasted image 20251230174233.png",
     "Pasted image 20251230174040.png",
     "Pasted image 20251230173928.png",
