@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kafka/3. Consumer.md",
+                "file": "Kafka/6. Replication & ISR(In-Sync Replicas).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Consumer"
+              "title": "6. Replication & ISR(In-Sync Replicas)"
             }
           }
         ]
@@ -197,6 +197,8 @@
   },
   "active": "249916262d6fa697",
   "lastOpenFiles": [
+    "Kafka/3. Consumer.md",
+    "Pasted image 20260102165846.png",
     "Kafka/6. Replication & ISR(In-Sync Replicas).md",
     "MySQL/쿼리 파서.md",
     "Pasted image 20260102162016.png",
@@ -205,14 +207,12 @@
     "Kafka/5. ZooKeeper & KRaft.md",
     "Kafka/6. Reflication",
     "Kafka/4. Broker.md",
-    "Kafka/3. Consumer.md",
     "Pasted image 20260102155450.png",
     "Pasted image 20260102153750.png",
     "Pasted image 20260102152632.png",
     "Pasted image 20260102152645.png",
     "Pasted image 20260102152419.png",
     "Pasted image 20260102152214.png",
-    "Pasted image 20260102152120.png",
     "Kafka/2. Producer.md",
     "Kafka/Topic.md",
     "Kafka/1. Topic.md",
