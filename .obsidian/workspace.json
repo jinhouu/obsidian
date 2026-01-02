@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kafka/5. ZooKeeper & KRaft.md",
+                "file": "Kafka/6. Replication.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. ZooKeeper & KRaft"
+              "title": "6. Replication"
             }
           }
         ]
@@ -195,9 +195,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "556545e664cc7a74",
+  "active": "a3b354ca53c0538a",
   "lastOpenFiles": [
-    "Kafka/Untitled",
+    "Kafka/5. ZooKeeper & KRaft.md",
+    "Kafka/6. Replication.md",
+    "Kafka/6. Reflication",
     "Kafka/4. Broker.md",
     "Kafka/3. Consumer.md",
     "Pasted image 20260102155450.png",
@@ -212,7 +214,6 @@
     "Kafka/Topic.md",
     "Kafka/images/Pasted image 20251230174233.png",
     "Kafka/images/Pasted image 20251230174040.png",
-    "Kafka/5. ZooKeeper & KRaft.md",
     "Kafka/1. Topic.md",
     "Kafka/0. Apache Kafka 란.md",
     "Kafka/Kafka Commit Log.md",
