@@ -31,4 +31,4 @@ Partition 하나당 오직 하나의 Segment 가 활성화 되어있음 (데이�
 - Partition에 저장된 데이터는 변경이 불가능함
 - Partition에 write되는 데이터는 맨 끝 OFFSET에 저장됨(LOG-END-OFFSET)
 - Partition은 Segment File들로 구성되어있다
-	Rolling 정책: log.segment.bytes(default: 1GB), log.roll.hours(default 168 )
+	Rolling 정책: log.segment.bytes(default: 1GB), log.roll.hours(default 168 hours)
