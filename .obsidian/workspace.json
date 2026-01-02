@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kafka/2. Producer.md",
+                "file": "Kafka/3. Consumer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Producer"
+              "title": "3. Consumer"
             }
           }
         ]
@@ -197,8 +197,8 @@
   },
   "active": "a3b354ca53c0538a",
   "lastOpenFiles": [
-    "Kafka/3. Consumer.md",
     "Kafka/2. Producer.md",
+    "Kafka/3. Consumer.md",
     "Kafka/images/Pasted image 20251230164623.png",
     "Kafka/Topic.md",
     "Kafka/images/Pasted image 20251230174233.png",
