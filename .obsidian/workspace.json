@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kafka/1. Topic.md",
+                "file": "Kafka/6. Replication & ISR(In-Sync Replicas).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Topic"
+              "title": "6. Replication & ISR(In-Sync Replicas)"
             }
           }
         ]
@@ -197,6 +197,7 @@
   },
   "active": "249916262d6fa697",
   "lastOpenFiles": [
+    "Kafka/1. Topic.md",
     "Kafka/2. Producer.md",
     "Kafka/3. Consumer.md",
     "Kafka/6. Replication & ISR(In-Sync Replicas).md",
@@ -215,7 +216,6 @@
     "Pasted image 20260102152419.png",
     "Pasted image 20260102152214.png",
     "Kafka/Topic.md",
-    "Kafka/1. Topic.md",
     "Kafka/0. Apache Kafka 란.md",
     "Kafka/Kafka Commit Log.md",
     "Kafka/Apache Kafka 란?.md",
