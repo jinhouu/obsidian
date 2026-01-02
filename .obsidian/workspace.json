@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "69a4f17f5cdee526",
+        "id": "e1d31bd8eb565e7c",
         "type": "tabs",
         "children": [
           {
-            "id": "3579868b4fe6c1b5",
+            "id": "249916262d6fa697",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -195,12 +195,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3579868b4fe6c1b5",
+  "active": "249916262d6fa697",
   "lastOpenFiles": [
+    "MySQL/쿼리 파서.md",
+    "Kafka/6. Replication & ISR(In-Sync Replicas).md",
     "Pasted image 20260102162016.png",
     "Pasted image 20260102161251.png",
     "Pasted image 20260102161410.png",
-    "Kafka/6. Replication & ISR(In-Sync Replicas).md",
     "Kafka/5. ZooKeeper & KRaft.md",
     "Kafka/6. Reflication",
     "Kafka/4. Broker.md",
@@ -213,7 +214,6 @@
     "Pasted image 20260102152214.png",
     "Pasted image 20260102152120.png",
     "Kafka/2. Producer.md",
-    "Kafka/images/Pasted image 20251230164623.png",
     "Kafka/Topic.md",
     "Kafka/1. Topic.md",
     "Kafka/0. Apache Kafka 란.md",
