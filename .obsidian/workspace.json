@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e1d31bd8eb565e7c",
+        "id": "162caf88ce8b7e95",
         "type": "tabs",
         "children": [
           {
-            "id": "249916262d6fa697",
+            "id": "e19162293e889d80",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kafka/2. Producer.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2. Producer"
+              "title": "새 탭"
             }
           }
         ]
@@ -44,7 +40,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "파일 탐색기"
             }
           },
           {
@@ -171,8 +167,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -185,45 +181,41 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "249916262d6fa697",
+  "active": "e19162293e889d80",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Kafka/3. Consumer.md",
     "Pasted image 20260102173727.png",
     "Pasted image 20260102173216.png",
     "Pasted image 20260102173046.png",
-    "Kafka/6. Replication & ISR(In-Sync Replicas).md",
-    "Kafka/1. Topic.md",
-    "Kafka/2. Producer.md",
-    "Kafka/3. Consumer.md",
     "Pasted image 20260102165846.png",
-    "MySQL/쿼리 파서.md",
     "Pasted image 20260102162016.png",
     "Pasted image 20260102161251.png",
-    "Pasted image 20260102161410.png",
-    "Kafka/5. ZooKeeper & KRaft.md",
-    "Kafka/6. Reflication",
-    "Kafka/4. Broker.md",
     "Pasted image 20260102155450.png",
     "Pasted image 20260102153750.png",
-    "Pasted image 20260102152632.png",
     "Pasted image 20260102152645.png",
-    "Kafka/Topic.md",
+    "Pasted image 20260102152214.png",
+    "Kafka/6. Replication & ISR(In-Sync Replicas).md",
+    "Kafka/2. Producer.md",
     "Kafka/0. Apache Kafka 란.md",
+    "Kafka/4. Broker.md",
+    "Kafka/5. ZooKeeper & KRaft.md",
+    "Kafka/1. Topic.md",
     "Kafka/Kafka Commit Log.md",
+    "Kafka/sub",
     "Kafka/Apache Kafka 란?.md",
-    "Kafka/Consumer.md",
     "Kafka/images",
     "Offset.md",
-    "Kafka/Producer.md",
     "Docker & Kubernetes/Docker Network.md",
     "Docker & Kubernetes/Container 기술.md",
     "Docker & Kubernetes/images",
